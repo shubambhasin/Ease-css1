@@ -1234,6 +1234,45 @@ p {
 }
 
 
+/******** flex helpers *************/
+
+.jcsb
+{
+  justify-content: space-between;
+}
+.jcc
+{
+  justify-content: center;
+}
+.jcfs
+{
+  justify-content: flex-start;
+}
+.jcfe
+{
+  justify-content: flex-end;
+}
+.jcsa
+{
+  justify-content: space-around;
+}
+
+.aic
+{
+  align-items: center;
+}
+.aife
+{
+  align-items: flex-end;
+}
+.aifs
+{
+  align-items: flex-start;
+}
+
+
+
+
 
 /* -------------------------------------
   -------------Animations--------------
