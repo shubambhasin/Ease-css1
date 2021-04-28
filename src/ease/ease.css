@@ -1233,6 +1233,59 @@ p {
   position: absolute;
 }
 
+.top05-rem
+{top: 0.5rem}
+.top1-rem
+{top: 1rem}
+.top2-rem
+{top: 2rem}
+.top3-rem
+{top: 3rem}
+.top4-rem
+{top: 4rem}
+.top5-rem
+{top: 5rem}
+
+.left05-rem
+{left: 0.5rem}
+.left1-rem
+{left: 1rem}
+.left2-rem
+{left: 2rem}
+.left3-rem
+{left: 3rem}
+.left4-rem
+{left: 4rem}
+.left5-rem
+{left: 5rem}
+
+.right05-rem
+{right: 0.5rem}
+.right1-rem
+{right: 1rem}
+.right2-rem
+{right: 2rem}
+.right3-rem
+{right: 3rem}
+.right4-rem
+{right: 4rem}
+.right5-rem
+{right: 5rem}
+
+.bottom05-rem
+{bottom: 0.5rem}
+.bottom1-rem
+{bottom: 1rem}
+.bottom2-rem
+{bottom: 2rem}
+.bottom3-rem
+{rbottom: 3rem}
+.bottom4-rem
+{bottom: 4rem}
+.bottom5-rem
+{bottom: 5rem}
+
+
 
 /******** flex helpers *************/
 
