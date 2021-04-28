@@ -1219,6 +1219,21 @@ p {
 .lighter {
   font-weight: lighter;
 }
+ /******** Position properties ******/
+  .relative {
+  position: relative;
+}
+.fixed {
+  postion: fixed;
+}
+.sticky {
+  position: sticky;
+}
+.absolute {
+  position: absolute;
+}
+
+
 
 /* -------------------------------------
   -------------Animations--------------
