@@ -2,8 +2,7 @@ import React, { useEffect } from "react";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { dracula } from "react-syntax-highlighter/dist/esm/styles/prism";
 import styled from "styled-components";
-import { useSidebar } from "../context/sidebarContext";
-// import Sidebar from "./Sidebar";
+import { useSidebar } from "../context/sidebarContext"
 
 const DocsTitle = styled.span`
   font-size: 4rem;
